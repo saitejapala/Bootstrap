@@ -4,7 +4,7 @@
   <li>Used for building responsive, mobile first website & web applications.</li>
   <li>HTML/CSS/JS</li>
 </ul>
-# Why use Bootstrap
+<h1>Why use Bootstrap</h1>
 <ul>
   <li>Increse development speed</li>
   <li>Assure responsiveness</li>
